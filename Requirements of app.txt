@@ -1,0 +1,31 @@
+Requirements of the app
+
+App idea: 
+
+Name: Financial client registration app.
+Goal: simple java app to register and manage business clients with basic contact info.
+Audience: beginner to intermediate java learning OOP, file I/O, validation, data management
+
+
+
+
+
+
+
+Must have feature:
+	Register client: name, contact, business name, email address, phone #
+	View clients: display a list of all registered clients
+	Store company data: store client data into a text/csv file (normally SQL database)
+		--format clients as: lastname, firstname, initials
+
+
+	login
+	Allow user input
+	Authentication for employee
+	Verify client info is correct
+
+
+Nice features to have:
+	UI - User Interface
+	Host on server
+	

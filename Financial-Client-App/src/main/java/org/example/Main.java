@@ -9,6 +9,8 @@ public class Main {
 
     public static void main(String[] args) {
 /// Financial client app exercise
+        
+
         Client[] clients = {
                 new Client("Abraham", "Ghani", "Colder Inc.", "aghani@colderincorparated.com", "860-999-9999"),
 

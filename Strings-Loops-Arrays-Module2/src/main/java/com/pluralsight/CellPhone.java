@@ -49,6 +49,8 @@ public class CellPhone {
         this.owner = owner;
     }
 
+
+
 //    public CellPhone(int serialNumber, String model, String carrier, String phoneNumber, String owner) {
 //        this.serialNumber = serialNumber;
 //        this.model = model;

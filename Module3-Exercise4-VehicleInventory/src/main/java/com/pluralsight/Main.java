@@ -27,6 +27,7 @@ static Scanner scanner = new Scanner(System.in);
         int numCars = 6;
 
 int userInput = 0;
+
     while (userInput != 6) {
         System.out.println("\nWhat do you want to do?");
         System.out.println("1 - List all vehicles");

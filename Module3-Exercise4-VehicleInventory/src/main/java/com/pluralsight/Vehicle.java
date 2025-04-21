@@ -90,7 +90,7 @@ public void printInfo(){
         System.out.println("enter make/model to search.");
         String userMakeModel = scanner.nextLine();
         for (int i = 0; i < _numCars; i++) {
-            if (_cars[i].getMakeModel().equalsIgnoreCase(userMakeModel)) {
+            if (_cars[i].getMakeModel().toLowerCase().contains(userMakeModel)) {
                 _cars[i].printInfo();
                 found = true;
             }

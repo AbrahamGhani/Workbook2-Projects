@@ -203,6 +203,7 @@ public void checkIn(){
                 System.out.println("Invalid entry");
             }
         }while (unavailableMenu);
+
     }
 
 
